@@ -1,0 +1,18 @@
+[
+    {
+        "question": "Hello (formal)",
+        "answer": "Bawo ni"
+    },
+    {
+        "question": "Goodbye (formal)",
+        "answer": "Odaro"
+    },
+    {
+        "question": "Hello (informal)",
+        "answer": "Paddi e bawo ni"
+    },
+    {
+        "question": "Goodbye (informal)",
+        "answer": "Odaro paddi e"
+    }
+]
